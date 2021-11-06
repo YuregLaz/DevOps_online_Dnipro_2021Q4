@@ -1,0 +1,2 @@
+in this task we worked with branches via git bash, resolve conflicts in merging branches to master. Push local repo in git to git hub via git remote + git push
+DevOps is a developer who takes part in developing, testing and operation systems

@@ -1,0 +1,17 @@
+user@DESKTOP-O9TNKBF MINGW64 ~/DevOps_online_Dnipro_2021Q4/m1/task1.1 (master)
+$ git reflog
+c4c6120 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+97c7ba0 HEAD@{1}: checkout: moving from develop to master
+c4c6120 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): resolve conflict to merge dtyles into fevelop
+3066d0a (origin/images, images) HEAD@{3}: merge images: Fast-forward
+4561cb4 HEAD@{4}: checkout: moving from styles to develop
+c758a4d (origin/styles, styles) HEAD@{5}: commit: edited index
+f2f2855 HEAD@{6}: commit: created styles folder
+4561cb4 HEAD@{7}: checkout: moving from develop to styles
+4561cb4 HEAD@{8}: checkout: moving from images to develop
+3066d0a (origin/images, images) HEAD@{9}: commit: edited index in images branch
+cd4fbd9 HEAD@{10}: commit: create img
+4561cb4 HEAD@{11}: checkout: moving from develop to images
+4561cb4 HEAD@{12}: commit: created index.html
+97c7ba0 HEAD@{13}: checkout: moving from master to develop
+97c7ba0 HEAD@{14}: commit (initial): init commit
